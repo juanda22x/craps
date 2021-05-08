@@ -33,7 +33,7 @@ function jugar(){
 
     
     turno = turno+1;
-    mostrarMensaje("Turno " + turno + ", buena suerte...");
+    mostrarMensaje("Turno " + turno + ", No tomas shot🚫🥃 sigue");
     suma = tiro_1+tiro_2; 
 
     //Primer turno
