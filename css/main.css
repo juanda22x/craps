@@ -1,5 +1,5 @@
 body{
-background-color: green;
+background-image: url(../images/fondo_craps.png);
 
 }
 #titulo{
@@ -8,7 +8,7 @@ background-color: green;
 	width: 300px;
 	margin-top: 200px;
 	margin-bottom:80px;
-	color: #F1F0EA;
+	color: #62CB89;
 	text-align: center
 
 }
@@ -30,7 +30,7 @@ display: block;
 width: 120px;
 height: 80px;
 margin: 100px auto;
-background-color: #3E55BB;
+background-color: #FBFDFE;
 color: #474448;
 border: 12;
 border-radius: 13px;
@@ -42,7 +42,11 @@ cursor: pointer;
   .creditosinstruciones{
   width:300px;
   margin:0 auto; 
-  text-align: left;
+  text-align: right;
+  color: #FBFDFE
+
+
+
 
   }
 
